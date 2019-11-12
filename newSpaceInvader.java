@@ -283,7 +283,6 @@ public class newSpaceInvader
     return defaultPos;
   }
   /*
-   * Author: A. Bozic
    * Method Name: populateBoard
    * Method Type: void
    * Description: populates the board 2D array with aliens
@@ -305,7 +304,7 @@ public class newSpaceInvader
   }//ends method printBoard
   
   /*
-   * Author: C. McCaffery
+   
    * Method Name: printBoard
    * Method Type: void
    * Description: prints a 2 dimensional board to the screen
@@ -328,7 +327,7 @@ public class newSpaceInvader
   
   
   /*
-   * Author: C. McCaffery
+   
    * Method Name: createBoard
    * Method Type: 2D Array of Strings
    * Description: creates a 2 dimensional board and assigns all of the
@@ -354,7 +353,7 @@ public class newSpaceInvader
 // ends method createBoard
   /*
    * 
-   * Author: C. McCaffery
+   
    * Method Name: resetBoard
    * Method Type: 2D Array of Strings
    * Description: resets a 2 dimensional board and assigns all of the
@@ -379,7 +378,7 @@ public class newSpaceInvader
   }// ends method resetBoard
   
   /*
-   * Author: C. McCaffery
+   
    * Method Name: printBoard
    * Method Type: void
    * Description: prints a 2 dimensional board to the screen
@@ -400,7 +399,7 @@ public class newSpaceInvader
   }//ends method printBoard
   
   /*
-   * Author: C. McCaffery
+   
    * Method Name: resetBoard
    * Method Type: 2D Array of Strings
    * Description: resets a 2 dimensional board and assigns all of the
